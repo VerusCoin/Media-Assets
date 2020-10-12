@@ -57,26 +57,26 @@ Use this branding material when you want to emphasize the slogan.
 ## Primary Palette
 ![Verus Blue](png/github-color.png?raw=true)
 ```
-Verus blue                                                            Verus white
-Hex:    #3165D4                                                       Hex:    #FFFFFF
-RGB:    rgb(49, 101, 212)                                             RGB:    rgb(255, 255, 255)
+Verus blue                                            Verus white
+Hex:    #3165D4                                       Hex:    #FFFFFF
+RGB:    rgb(49, 101, 212)                             RGB:    rgb(255, 255, 255)
 ```
 
 ## Text Palette
 ![Verus Dark](png/color-black.png?raw=true)![Verus Dark Grey](png/color-darkgrey.png?raw=true)![Verus Light Grey](png/color-lightgrey.png?raw=true)
 ```
-Dark                                      Verus Dark Grey                             Verus Light Grey
-Hex:    #1C1C1C                           Hex:    #959595                             Hex:    #D6D6D6
-RGB:    rgb(28, 28, 28)                   RGB:    rgb(149, 149, 149)                  RGB:    rgb(214, 214, 214)
+Dark                              Verus Dark Grey                     Verus Light Grey
+Hex:    #1C1C1C                   Hex:    #959595                     Hex:    #D6D6D6
+RGB:    rgb(28, 28, 28)           RGB:    rgb(149, 149, 149)          RGB:    rgb(214, 214, 214)
 ```
 
 ## Additional Palette
 ![Verus Red](png/color-red.png?raw=true)![Verus Dark Green](png/color-green.png?raw=true)
 
 ```
-Red                                       Verus Green
-Hex:    #D4313E                           Hex:    #4AA658
-RGB:    rgb(212, 49, 62)                  RGB:    rgb(74, 166, 88)
+Red                               Verus Green
+Hex:    #D4313E                   Hex:    #4AA658
+RGB:    rgb(212, 49, 62)          RGB:    rgb(74, 166, 88)
 ```
 
 # Typography
