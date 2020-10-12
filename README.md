@@ -38,7 +38,7 @@ Use the icon when our primary mark is too large for an application.
 Use this branding material when you want to emphasize the slogan.
 
 ### Icon + Slogan
-![Verus Icon + Slogan Blue](png/IconSloganBlue.png?raw=true)![Verus Icon + Slogan White](png/Iconslogan.png?raw=true)
+![Verus Icon + Slogan Blue](png/IconSloganBlue.png?raw=true)![Verus Icon + Slogan White](png/IconSlogan.png?raw=true)
 ###### Download
 [Verus Icon + Slogan Blue.svg](Logos/SVG%20(vector)/IconSlogan/verus-icon-slogan-blue.svg)<br>
 [Verus Icon + Slogan Blue.png](Logos/PNG%20(pixel)/IconSlogan/verus-icon-slogan-blue.png)<br>
