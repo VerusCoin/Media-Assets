@@ -28,8 +28,10 @@ Use the icon when our primary mark is too large for an application.
 ###### Download
 [Verus Logo Blue.svg](Logos/SVG%20(vector)/Logo/verus-icon-blue.svg)<br>
 [Verus Logo Blue.png](Logos/PNG%20(pixel)/Logo/verus-icon-blue.png)<br>
+[Verus Logo Blue 500px.png](Logos/PNG%20(pixel)/Logo/verus-icon-blue-500px.png)<br>
 [Verus Logo White.svg](Logos/SVG%20(vector)/Logo/verus-icon-white.svg)<br>
 [Verus Logo White.png](Logos/PNG%20(pixel)/Logo/verus-icon-white.png)
+[Verus Logo White 500px.png](Logos/PNG%20(pixel)/Logo/verus-icon-white-500px.png)
 
 # Additional material
 
